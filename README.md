@@ -1,6 +1,8 @@
 # DEVP-II-PROJECT2
 Streamlit Dashboard of Global Terrorism Dataset (contained in the .py file)
 
+CSV Dataset used has been attached.
+
 The ipynb file contains the report.
 
 Instructions for Streamlit Live Dashboard-
