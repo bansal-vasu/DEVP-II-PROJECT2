@@ -13,3 +13,8 @@ Open anaconda prompt.
 2. Now run command 'streamlit run [file name].py'
 
 The dashboard will open on your browswer.
+
+References -
+
+1. ChatGPT
+2. YouTube - Mubeen Ali
