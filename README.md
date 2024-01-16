@@ -1,5 +1,7 @@
 # DEVP-II-PROJECT2
-Streamlit Dashboard of Global Terrorism Dataset
+Streamlit Dashboard of Global Terrorism Dataset (contained in the .py file)
+
+The ipynb file contains the report.
 
 Instructions for Streamlit Live Dashboard-
 
@@ -9,4 +11,5 @@ Open anaconda prompt.
 
 1. Run command cd Downloads (if the downloaded file is saved in Downloads)
 2. Now run command 'streamlit run [file name].py'
+
 The dashboard will open on your browswer.
