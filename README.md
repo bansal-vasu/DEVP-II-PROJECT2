@@ -11,7 +11,7 @@ Method 1
 
 Download the python(.py) file.
 
-Open anaconda prompt.
+Open anaconda prompt from Anaconda Navigator (You need to have Anaconda Downloaded on your device).
 
 1. Run command cd Downloads (if the downloaded file is saved in Downloads)
 2. Now run command 'streamlit run [file name].py'
