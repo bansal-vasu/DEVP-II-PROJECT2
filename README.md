@@ -30,7 +30,7 @@ The dashboard will open on your browswer.
   
   iii) ! streamlit run app.py & npx localtunnel --port 8501
 
-After running code (iii) it will give a web link, in the web link enter the URL give by code (ii) in the dialog box on the screen.
+After running code (iii) it will give a web link, after opening the web page enter the URL given by code (ii) in the dialog box on the screen.
 
 References -
 
