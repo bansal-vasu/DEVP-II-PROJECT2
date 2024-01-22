@@ -23,6 +23,7 @@ If Method 1 does not work use the following method-
 1. Download the py file and dataset
 2. Open Google Colab and upload both files
 3. Open 3 different code cells and run the following code in given order -
+   
   i) ! pip install streamlit -q
 
   ii) !wget -q -O - ipv4.icanhazip.com
