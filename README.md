@@ -24,7 +24,9 @@ If Method 1 does not work use the following method-
 2. Open Google Colab and upload both files
 3. Open 3 different code cells and run the following code in given order -
   i) ! pip install streamlit -q
+
   ii) !wget -q -O - ipv4.icanhazip.com
+  
   iii) ! streamlit run app.py & npx localtunnel --port 8501
 
 After running code (iii) it will give a web link, in the web link enter the URL give by code (ii) in the dialog box on the screen.
