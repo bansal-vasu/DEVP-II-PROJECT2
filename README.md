@@ -3,11 +3,11 @@ Streamlit Dashboard of Global Terrorism Dataset (contained in the .py file)
 
 CSV Dataset used has been attached.
 
-The ipynb file contains the report.
+**The ipynb file contains the report.**
 
 Instructions for Streamlit Live Dashboard-
 
-Method 1
+**Method 1**
 
 Download the python(.py) file.
 
@@ -18,7 +18,7 @@ Open anaconda prompt from Anaconda Navigator (You need to have Anaconda Download
 
 The dashboard will open on your browswer.
 
-If Method 1 does not work use the following method-
+**If Method 1 does not work use the following method-**
 
 1. Download the py file and dataset
 2. Open Google Colab and upload both files
