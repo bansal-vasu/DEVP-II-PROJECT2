@@ -9,7 +9,7 @@ Instructions for Streamlit Live Dashboard-
 
 **Method 1**
 
-Download the python(.py) file.
+Download the python(.py) file and the dataset in same location.
 
 Open anaconda prompt from Anaconda Navigator (You need to have Anaconda Downloaded on your device).
 
